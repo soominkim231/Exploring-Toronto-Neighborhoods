@@ -10,3 +10,4 @@
 
 ![image](https://user-images.githubusercontent.com/61001333/111861364-06aa0100-8991-11eb-92c2-51dd77c6e589.png)
 
+(showing the first 5 rows of the dataframe)
