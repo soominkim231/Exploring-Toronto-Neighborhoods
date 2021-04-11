@@ -1,6 +1,6 @@
 # Exploring-Toronto-Neighborhoods
 
-## Introduction
+## Project Overview
 ### Aim:
 This project aims to explore, segment, and cluster the neighborhoods in the city of Toronto.
 In doing so, I utilize the following methods:
